@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SPO", "SPO", "{1B6B951D-097
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture0", "SPO\Lecture0\Lecture0.csproj", "{E9CA7448-23E3-469D-BD31-BAA4CFF2C705}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SS", "SS", "{863F4D95-B35F-4AA0-8B55-14CE7D099CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automaton", "SS\Automaton\Automaton.csproj", "{142E0DBB-B4B9-4891-96E3-BAD27DA5AFAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,8 +23,13 @@ Global
 		{E9CA7448-23E3-469D-BD31-BAA4CFF2C705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CA7448-23E3-469D-BD31-BAA4CFF2C705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CA7448-23E3-469D-BD31-BAA4CFF2C705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142E0DBB-B4B9-4891-96E3-BAD27DA5AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142E0DBB-B4B9-4891-96E3-BAD27DA5AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142E0DBB-B4B9-4891-96E3-BAD27DA5AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142E0DBB-B4B9-4891-96E3-BAD27DA5AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E9CA7448-23E3-469D-BD31-BAA4CFF2C705} = {1B6B951D-0970-4913-AB6E-57F84D7551B9}
+		{142E0DBB-B4B9-4891-96E3-BAD27DA5AFAC} = {863F4D95-B35F-4AA0-8B55-14CE7D099CBF}
 	EndGlobalSection
 EndGlobal
